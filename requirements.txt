@@ -1,0 +1,6 @@
+rtpt
+fairscale
+fire
+sentencepiece
+accelerate
+bitsandbytes
