@@ -1,4 +1,4 @@
-# Exploring the Adversarial Capabilities of Large Language Models
+# Exploring the Adversarial Capabilities of Large Language Models (ICLR 2024 SeT LLM Workshop)
 
   <center>
   <img src="images/concept.png" alt="Concept"  height=250>
