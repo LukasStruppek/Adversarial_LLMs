@@ -25,7 +25,7 @@ def main():
     tokenizer, classifier = load_classifier(HATE_SPEECH_CLASSIFIER)
     llm = load_llm_pipeline(MODEL_NAME)
     
-    dataset = load_csv_dataset('test_en_filtered.tsv', '\t')
+    dataset = load_csv_dataset('hate_speech_samples.tsv', '\t')
     rtpt = RTPT('RTPT_NAME', 'Craft Adv. Examples', len(dataset))
     rtpt.start()
 
